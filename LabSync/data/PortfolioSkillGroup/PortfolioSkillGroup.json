@@ -1,0 +1,37 @@
+[
+  {
+    "id": "skills_languages",
+    "name": "Languages",
+    "category": "Languages",
+    "items": ["Python", "C", "Java", "SystemVerilog", "Verilog", "JavaScript", "R"],
+    "sortOrder": 1
+  },
+  {
+    "id": "skills_hardware",
+    "name": "Hardware & Embedded",
+    "category": "Hardware & Embedded",
+    "items": ["ESP32", "Arduino", "GPIO", "Load sensors", "ADC", "NFC readers", "QuestaSim", "ASIC / FPGA flow"],
+    "sortOrder": 2
+  },
+  {
+    "id": "skills_cad",
+    "name": "CAD & Fabrication",
+    "category": "CAD & Fabrication",
+    "items": ["CAD", "OnShape", "Solidworks", "3D printing", "Laser cutting"],
+    "sortOrder": 3
+  },
+  {
+    "id": "skills_software",
+    "name": "Software & Tools",
+    "category": "Software & Tools",
+    "items": ["React", "Tailwind", "Firebase", "GitHub", "GitLab", "Git", "VS Code", "Codex"],
+    "sortOrder": 4
+  },
+  {
+    "id": "skills_other",
+    "name": "Other",
+    "category": "Other",
+    "items": ["Public speaking / Presentation"],
+    "sortOrder": 5
+  }
+]

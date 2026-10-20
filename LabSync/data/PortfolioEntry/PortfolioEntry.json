@@ -1,0 +1,122 @@
+[
+  {
+    "id": "entry_makerspace",
+    "name": "Wisconsin MakerSpace — Biomedical Engineer",
+    "title": "Wisconsin MakerSpace",
+    "kind": "experience",
+    "role": "Biomedical Engineer",
+    "organization": "Wisconsin MakerSpace",
+    "location": "Madison, WI",
+    "startLabel": "August 2026",
+    "endLabel": "Present",
+    "current": true,
+    "technologies": ["ESP32", "Python", "C", "Load sensors", "ADC", "NFC", "CAD", "OnShape"],
+    "highlights": [
+      "Designing and integrating a hardware solution using load sensors, ADCs, wiring, NFC readers/stickers and an ESP32 microcontroller, with Python and C firmware, to track precise material usage in 3D printers.",
+      "Calibrating analog sensor inputs into digital telemetry, transmitting real-time stock levels over Wi-Fi to an automated inventory database.",
+      "Designing climate-controlled storage in CAD and OnShape, and fabricating it with saws, lasers and 3D printing."
+    ],
+    "featured": true,
+    "sortOrder": 1
+  },
+  {
+    "id": "entry_silicon_badgers",
+    "name": "Silicon Badgers — Chip design",
+    "title": "Silicon Badgers",
+    "kind": "experience",
+    "role": "Chip Design Member",
+    "organization": "Silicon Badgers",
+    "location": "Madison, WI",
+    "startLabel": "August 2026",
+    "endLabel": "Present",
+    "current": true,
+    "technologies": ["SystemVerilog", "Verilog", "QuestaSim", "ASIC", "FPGA"],
+    "highlights": [
+      "Wrote SystemVerilog RTL and supporting code to build an ISA calculator, verified using QuestaSim.",
+      "Gained experience across the full ASIC and FPGA flow, learning software–chip interactions and chip logic/design.",
+      "Studied how neural networks use INT8/INT32 data types, memory mapping and multiply-accumulate operations.",
+      "Built up computer architecture fundamentals: instruction decoding, datapath operations and state machines."
+    ],
+    "featured": true,
+    "sortOrder": 2
+  },
+  {
+    "id": "entry_fsae",
+    "name": "Wisconsin FSAE Racing — Firmware Team",
+    "title": "Wisconsin FSAE Racing",
+    "kind": "experience",
+    "role": "Firmware Team Member",
+    "organization": "Wisconsin Racing (Firmware Team)",
+    "location": "Madison, WI",
+    "startLabel": "August 2026",
+    "endLabel": "Present",
+    "current": true,
+    "technologies": ["C", "ESP32", "Arduino", "GPIO", "Git", "GitLab"],
+    "highlights": [
+      "Completed embedded C onboarding on ESP32/Arduino MCUs, the foundation for the team's steering and control software.",
+      "Configured and controlled GPIO pins to read inputs and drive hardware outputs, learning firmware–physical interactions.",
+      "Used Git for version control in a shared team codebase, branching and committing through the team's GitLab workflow.",
+      "Currently developing temperature sensor firmware on ESP32 to read and process real data."
+    ],
+    "featured": false,
+    "sortOrder": 3
+  },
+  {
+    "id": "entry_medical_text_reader",
+    "name": "Medical Text Reader",
+    "title": "Medical Text Reader",
+    "kind": "project",
+    "role": "",
+    "organization": "",
+    "location": "",
+    "startLabel": "July 2026",
+    "endLabel": "July 2026",
+    "current": false,
+    "technologies": ["Python", "Groq Llama 3", "Gemini API", "R"],
+    "highlights": [
+      "Built a medical text processor that translates complex medical text and prescriptions into plain, patient-friendly language, with file upload functionality created in R.",
+      "Built the Python backend, integrating the Groq Llama 3 and Gemini APIs for image processing and analysis."
+    ],
+    "featured": true,
+    "sortOrder": 1
+  },
+  {
+    "id": "entry_housing_price_model",
+    "name": "Housing Price Simulation Model",
+    "title": "Housing Price Simulation Model",
+    "kind": "project",
+    "role": "",
+    "organization": "",
+    "location": "",
+    "startLabel": "June 2026",
+    "endLabel": "June 2026",
+    "current": false,
+    "technologies": ["Python", "Prediction modeling", "Stochastic modeling"],
+    "highlights": [
+      "Developed a house price model that simulates real wage growth, inflation and estate prices to recommend a purchase timeline, using real data and averages.",
+      "Conducted stochastic return modeling across multiple financial models and simulations, with list and dictionary storage."
+    ],
+    "featured": false,
+    "sortOrder": 2
+  },
+  {
+    "id": "entry_run_protect",
+    "name": "Run Protect",
+    "title": "Run Protect",
+    "kind": "project",
+    "role": "",
+    "organization": "",
+    "location": "",
+    "startLabel": "April 2025",
+    "endLabel": "April 2025",
+    "current": false,
+    "technologies": ["Python", "Java", "React", "Tailwind", "Firebase", "HTML", "CSS", "Glide"],
+    "highlights": [
+      "Developed a web app that predicts running-related overuse injuries from biomechanical data using a rule-based composite scoring algorithm in Glide.",
+      "Built the UI/UX with HTML, CSS and JavaScript in React and Tailwind, serving 100+ users at a 10x retention rate.",
+      "Engineered the backend in Python and Java, integrating Firebase to securely collect, structure and query real-time biomechanical data."
+    ],
+    "featured": true,
+    "sortOrder": 3
+  }
+]

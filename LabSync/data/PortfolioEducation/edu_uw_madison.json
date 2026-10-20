@@ -1,0 +1,22 @@
+{
+  "id": "edu_uw_madison",
+  "name": "University of Wisconsin-Madison",
+  "school": "University of Wisconsin-Madison",
+  "degree": "B.S. in Biomedical Engineering",
+  "minor": "Computer Science",
+  "location": "Madison, WI",
+  "expectedGraduation": "Expected May 2029",
+  "specialization": "Bioinstrumentation and Electronics track",
+  "coursework": [
+    "Engineering Design 170",
+    "Calculus 1 & 2",
+    "Differential Equations & Linear Algebra",
+    "Physics: Mechanics",
+    "AP Computer Science: Java"
+  ],
+  "awards": [
+    "IBM Thomas J Watson Scholarship recipient",
+    "Wayzata Debate Scholarship recipient (top 2%)"
+  ],
+  "sortOrder": 1
+}
