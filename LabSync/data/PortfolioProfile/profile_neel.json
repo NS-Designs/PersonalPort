@@ -2,12 +2,12 @@
   "id": "profile_neel",
   "name": "Neel Shrivastava",
   "fullName": "Neel Shrivastava",
-  "headline": "Biomedical Engineering (Bioinstrumentation & Electronics) + CS minor @ UW–Madison",
+  "headline": "Hardware Engineering · Circuit Design · Embedded Systems @ UW–Madison",
   "location": "Madison, WI",
   "email": "nshrivastav9@wisc.edu",
   "phone": "763-327-4181",
   "linkedinUrl": "https://www.linkedin.com/in/neel-shrivastava-321b99355",
-  "summary": "Biomedical engineering student at the University of Wisconsin–Madison studying bioinstrumentation and electronics, with a minor in computer science. I build at the intersection of hardware and software — from load-cell telemetry on 3D printers to SystemVerilog RTL and full-stack web apps. I care about creating systems that work in the real world, not just on paper.",
+  "summary": "Biomedical engineering student at the University of Wisconsin–Madison interested in hardware engineering, circuit design, and embedded systems. I enjoy building real-world electronics and firmware systems — from sensor-driven instrumentation to digital design and embedded development. I care about creating reliable, practical technologies that connect hardware, software, and people.",
   "interests": ["Spiderman Films", "Ed Sheeran", "Premier League Soccer", "Manchester City FC", "LA Rams", "UW Badgers"],
   "clubs": ["Wisconsin Racing (Firmware)", "UW BME Society", "Silicon Badgers (Chip design)", "UW Transcend"]
 }
